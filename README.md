@@ -1,2 +1,2 @@
 # JinseiLudus
-Game Of Life
+Where I learn basic of new Programming Language
